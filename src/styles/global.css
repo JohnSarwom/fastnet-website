@@ -59,6 +59,10 @@ section {
   text-decoration: none;
 }
 
+.fn-logo .fn-logo-blue {
+  color: var(--bright);
+}
+
 .fn-logo span {
   color: var(--orange);
 }
@@ -1068,6 +1072,10 @@ section {
 .fn-flogo {
   font-weight: 800;
   font-size: 1.2rem;
+}
+
+.fn-flogo .fn-logo-blue {
+  color: var(--bright);
 }
 
 .fn-flogo span {
