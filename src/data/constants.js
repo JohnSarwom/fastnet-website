@@ -30,8 +30,8 @@ export const SPEED_BARS = [
 
 export const CONTACT_INFO = [
   { icon: "📍", label: "Location", value: "PO Box 980, Kimbe 621, WNBP" },
-  { icon: "🌐", label: "Website", value: "www.fastnet.com.pg" },
-  { icon: "✉️", label: "Email", value: "sales@fastnetpng.com" },
+  { icon: "🌐", label: "Website", value: "www.fastnetpng.com" },
+  { icon: "✉️", label: "Email", value: "info@fastnetpng.com" },
   { icon: "📞", label: "Phone", value: "+675 7705 8230 / +675 82445259" },
 ];
 
